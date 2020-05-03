@@ -1,0 +1,15 @@
+.app-content {
+  margin-top: 64px;
+}
+
+.image-gallery-slides {
+  height: 0 !important;
+}
+
+.image-gallery-thumbnails .image-gallery-thumbnails-container {
+  text-align: left !important;
+}
+
+.literally {
+  min-height: 100% !important;
+}
